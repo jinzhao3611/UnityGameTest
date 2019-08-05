@@ -1,6 +1,7 @@
 {
     "name": "consolee",
     "displayName": "ConsoleE",
+    "version" : "0.3.2", 
     "unity": "2018.3",
     "description": "This is a test to add packages."
 }
